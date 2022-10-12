@@ -10934,4 +10934,7 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+}
+.contenedor {
+  width: 80%;
 }/*# sourceMappingURL=estilos.css.map */
