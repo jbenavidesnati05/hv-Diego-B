@@ -10940,9 +10940,26 @@ textarea.form-control-lg {
 }
 
 .banner {
-  height: 25rem;
+  height: auto;
 }
 
 .foto-perfil img {
   border-radius: 50%;
+}
+
+footer {
+  background: black;
+  padding: 4rem 0rem 0rem 0rem;
+}
+
+.pie a img {
+  width: 20%;
+}
+
+.derechos {
+  padding: 2rem;
+}
+
+.whatsapp img {
+  width: 1.5rem;
 }/*# sourceMappingURL=estilos.css.map */
