@@ -10935,6 +10935,12 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+header {
+  background-color: white;
+  height: 5rem;
+  color: rgb(244, 232, 232);
+}
+
 .contenedor {
   width: 80%;
 }
@@ -10962,4 +10968,12 @@ footer {
 
 .whatsapp img {
   width: 1.5rem;
+}
+
+.btn-platzi {
+  background-color: #97c93c;
+}
+
+.btn-platzi:hover {
+  background-color: #82ad36;
 }/*# sourceMappingURL=estilos.css.map */
